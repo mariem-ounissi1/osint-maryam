@@ -31,7 +31,7 @@ Le rapport complet, avec toutes les captures commentées, est dans [`Projet_OSIN
 osint-maryam/
 ├── README.md
 ├── Rapport_OSINT_Maryam.pdf   (rapport complet avec captures commentées)
-
+```
 ## 1. Installer Maryam
 
 Maryam n'est plus très récent et Python 3.14 lui a posé quelques problèmes. Voici ce que j'ai fait pour le faire tourner.
