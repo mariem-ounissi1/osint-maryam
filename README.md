@@ -31,10 +31,6 @@ Le rapport complet, avec toutes les captures commentées, est dans [`Projet_OSIN
 osint-maryam/
 ├── README.md
 ├── Rapport_OSINT_Maryam.pdf   (rapport complet avec captures commentées)
-├── osint_recon.sh             (automatisation DNS + WHOIS)
-├── requirements-light.txt     (dépendances allégées de Maryam)
-├── screenshots/               (une capture par étape)
-└── results/                   (exports et rapports générés)
 ```
 
 Le clone de Maryam et le `venv` ne sont pas versionnés (voir `.gitignore`).
