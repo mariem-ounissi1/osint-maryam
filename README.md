@@ -2,7 +2,7 @@
 
 Un exercice de reconnaissance passive sur une organisation publique, `owasp.org`, avec le framework **OWASP Maryam** et quelques outils classiques (`dig`, `whois`, `theHarvester`). L'idée : voir ce qu'on peut apprendre d'une organisation uniquement à partir de sources publiques (DNS, sous-domaines, e-mails, profils, réseaux sociaux), sans jamais toucher à ses systèmes.
 
-Le rapport complet, avec toutes les captures commentées, est dans [`Rapport_OSINT_Maryam.pdf`](Rapport_OSINT_Maryam.pdf).
+Le rapport complet, avec toutes les captures commentées, est dans [`Projet_OSINT_Maryam.pdf`](Projet_OSINT_Maryam.pdf).
 
 ## Contexte
 
